@@ -1,0 +1,128 @@
+.text-small{
+    font-size: 12px;
+}
+
+.text-m{
+    font-size: 14px;
+}
+
+.divider{
+	height: 45px;
+}
+.light-green{
+	/*background: #D0FFEC;*/
+	background: #B8F1C8;
+}
+.text-green{
+	color: #054100;
+}
+
+.text-gray{
+	color: #ccc;
+}
+a{
+	color: #054100;
+	text-decoration: none;
+}
+.navbar-nav a{
+	color: #054100;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #054100;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #333 !important;
+}
+
+
+.sb-topnav.navbar-dark #sidebarToggle {
+     color: #054100;
+}
+.navbar-dark .navbar-brand {
+     color: #054100;
+}
+
+.navbar-dark .navbar-brand:hover {
+     color: #333;
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #054100;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.nav-link:hover {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.navbar-nav .nav-link:focus {
+    color: #054100;
+}
+
+.page-item.active .page-link, .page-item.active .dataTable-pagination a, .dataTable-pagination .page-item.active a, .dataTable-pagination li.active .page-link, .dataTable-pagination li.active a {
+    z-index: 3;
+    color: #fff;
+    background-color: #054100 !important;
+    border-color: #054100 !important;
+}
+
+.dataTable-pagination li.active a {
+    z-index: 3;
+    color: #fff;
+     background-color: #054100 !important;
+    border-color: #054100 !important;
+}
+
+button.dt-button, div.dt-button, a.dt-button {
+            position: relative;
+            display: inline-block;
+            box-sizing: border-box;
+            margin-right: 0.333em;
+            padding: 0.2em 1em;
+            border: 1px solid #999;
+            border-radius: 2px;
+            cursor: pointer;
+            font-size: 0.88em;
+            color: black;
+            white-space: nowrap;
+            overflow: hidden;
+            background-color: #e9e9e9;
+            background-image: -webkit-linear-gradient(top, #fff 0%, #e9e9e9 100%);
+            background-image: -moz-linear-gradient(top, #fff 0%, #e9e9e9 100%);
+            background-image: -ms-linear-gradient(top, #fff 0%, #e9e9e9 100%);
+            background-image: -o-linear-gradient(top, #fff 0%, #e9e9e9 100%);
+            background-image: linear-gradient(to bottom, #fff 0%, #e9e9e9 100%);
+        }
+
+        button, select {
+    text-transform: none;
+    background: #333;
+    color: #fff;
+}
+
+
+.page-item.active .page-link, .page-item.active .dataTable-pagination a, .dataTable-pagination .page-item.active a, .dataTable-pagination li.active .page-link, .dataTable-pagination li.active a {
+    z-index: 3;
+    color: #fff;
+    background-color: #054100 !important;
+    border-color: #054100 !important;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color:  #054100;
+  background-color: #fff;
+  border: 1px solid  #054100;
+}
